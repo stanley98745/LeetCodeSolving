@@ -82,6 +82,5 @@ class Solution:
                 max_pick -= 1
         
         output.append(min_pick)
-        return output
-        
+        return output        
 ```
